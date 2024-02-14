@@ -1,0 +1,22 @@
+body {
+    background: radial-gradient(rgb(157, 188, 191),rgb(55, 122, 130) ) ;
+    height: 800px;
+    margin: 20px;
+    text-align: center;
+}
+
+button {
+    box-shadow: 5px 5px 25px;
+    background-color: salmon;
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 250px;
+    margin: 20px;
+}
+
+button:hover {
+    background-color: white;
+    color: salmon;
+    cursor: pointer
+}

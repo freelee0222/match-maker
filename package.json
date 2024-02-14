@@ -1,0 +1,17 @@
+{
+  "name": "match-maker",
+  "version": "1.0.0",
+  "description": "checkpoint project",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jeffrey Clements",
+  "license": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
